@@ -1,0 +1,4 @@
+mul-win-just-pub makes use of a nonfree library gurobipy which is an API to
+a nonfree ILP solver Gurobi. This is certainly a drawback of this software. The
+software should be changed to do the same job without the nonfree library.
+Specifically, Gurobi should be replcaed by an open-source ILP solver.
